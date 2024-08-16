@@ -1,0 +1,334 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9723,
+          40.7854
+        ]
+      },
+      "properties": {
+        "name": "96th St Subway Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8303,
+          40.759
+        ]
+      },
+      "properties": {
+        "name": "Flushing Main St Subway Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8291,
+          40.7601
+        ]
+      },
+      "properties": {
+        "name": "Joe's Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8292,
+          40.7598
+        ]
+      },
+      "properties": {
+        "name": "Supermarket"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9875,
+          40.758
+        ]
+      },
+      "properties": {
+        "name": "Times Square Subway Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9875,
+          40.758
+        ]
+      },
+      "properties": {
+        "name": "AMC Times Square"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.985,
+          40.7479
+        ]
+      },
+      "properties": {
+        "name": "K-Town Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9723,
+          40.7854
+        ]
+      },
+      "properties": {
+        "name": "Home (96th St Subway Station)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9723,
+            40.7854
+          ],
+          [
+            -73.9818,
+            40.7681
+          ],
+          [
+            -73.8303,
+            40.759
+          ]
+        ]
+      },
+      "properties": {
+        "name": "96th St to Flushing (1 and 7 Line)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8303,
+            40.759
+          ],
+          [
+            -73.8291,
+            40.7601
+          ],
+          [
+            -73.8292,
+            40.7598
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Walking in Flushing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.8303,
+            40.759
+          ],
+          [
+            -73.9818,
+            40.7681
+          ],
+          [
+            -73.9875,
+            40.758
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Flushing to Times Square (7 Line)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9875,
+            40.758
+          ],
+          [
+            -73.9875,
+            40.758
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Walking to AMC Times Square"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9875,
+            40.758
+          ],
+          [
+            -73.985,
+            40.7479
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Walking to K-Town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.985,
+            40.7479
+          ],
+          [
+            -73.9733,
+            40.7856
+          ]
+        ]
+      },
+      "properties": {
+        "name": "K-Town to Home (D Line)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.8304,
+              40.763
+            ],
+            [
+              -73.8304,
+              40.757
+            ],
+            [
+              -73.826,
+              40.757
+            ],
+            [
+              -73.826,
+              40.763
+            ],
+            [
+              -73.8304,
+              40.763
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Flushing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.9891,
+              40.7622
+            ],
+            [
+              -73.9891,
+              40.7562
+            ],
+            [
+              -73.9837,
+              40.7562
+            ],
+            [
+              -73.9837,
+              40.7622
+            ],
+            [
+              -73.9891,
+              40.7622
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Times Square"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.988,
+              40.751
+            ],
+            [
+              -73.988,
+              40.7465
+            ],
+            [
+              -73.9825,
+              40.7465
+            ],
+            [
+              -73.9825,
+              40.751
+            ],
+            [
+              -73.988,
+              40.751
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "K-Town"
+      }
+    }
+  ]
+}

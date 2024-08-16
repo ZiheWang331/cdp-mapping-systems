@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-73.8304, 40.7630],
+          [-73.8304, 40.7570],
+          [-73.8260, 40.7570],
+          [-73.8260, 40.7630],
+          [-73.8304, 40.7630]
+        ]]
+      },
+      "properties": {
+        "name": "Flushing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-73.9891, 40.7622],
+          [-73.9891, 40.7562],
+          [-73.9837, 40.7562],
+          [-73.9837, 40.7622],
+          [-73.9891, 40.7622]
+        ]]
+      },
+      "properties": {
+        "name": "Times Square"
+      }
+    },
+    {
+      "type": "Feature",
+        "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-73.9880, 40.7510],
+          [-73.9880, 40.7465],
+          [-73.9825, 40.7465],
+          [-73.9825, 40.7510],
+          [-73.9880, 40.7510]
+        ]]
+      },
+      "properties": {
+        "name": "K-Town"
+      }
+    }
+  ]
+}

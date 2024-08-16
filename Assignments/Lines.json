@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.9723, 40.7854],
+          [-73.9818, 40.7681],
+          [-73.8303, 40.7590]
+        ]
+      },
+      "properties": {
+        "name": "96th St to Flushing (1 and 7 Line)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.8303, 40.7590],
+          [-73.8291, 40.7601],
+          [-73.8292, 40.7598]
+        ]
+      },
+      "properties": {
+        "name": "Walking in Flushing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.8303, 40.7590],
+          [-73.9818, 40.7681],
+          [-73.9875, 40.7580]
+        ]
+      },
+      "properties": {
+        "name": "Flushing to Times Square (7 Line)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.9875, 40.7580],
+          [-73.9875, 40.7580]
+        ]
+      },
+      "properties": {
+        "name": "Walking to AMC Times Square"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.9875, 40.7580],
+          [-73.9850, 40.7479]
+        ]
+      },
+      "properties": {
+        "name": "Walking to K-Town"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-73.9850, 40.7479],
+          [-73.9733, 40.7856]
+        ]
+      },
+      "properties": {
+        "name": "K-Town to Home (D Line)"
+      }
+    }
+  ]
+}
